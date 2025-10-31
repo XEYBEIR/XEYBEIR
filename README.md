@@ -47,14 +47,12 @@
 ---
 
 ## 🏆 Ödüller & Projeler
-<div align="center">
-  <ul style="text-align: left; display: inline-block; line-height: 1.6;">
-    <li>🥇 <b>Teknofest 2025 Kıbrıs - Roboling Mavi Vatan</b> yarışmacısı başvurusu</li>
-    <li>⚙️ Görüntü işleme tabanlı güvenlik, mini robot kontrol, web tabanlı sohbet sistemleri</li>
-    <li>🎮 Python ile 3D FPS Oyun projesi (Sinop temalı)</li>
-    <li>🔥 Gerçek zamanlı alev tespit sistemi (webcam analizi)</li>
-  </ul>
-</div>
+> <span style="color:#1d3557;">Yenilik, üretkenlik ve mühendislik tutkusuyla…</span>
+
+- 🥇 **Teknofest 2025 Kıbrıs - Roboling Mavi Vatan** yarışmacısı başvurusu  
+- ⚙️ Görüntü işleme tabanlı güvenlik, mini robot kontrol ve web tabanlı sohbet sistemleri  
+- 🎮 **Python ile 3D FPS Oyun projesi** (Sinop temalı)  
+- 🔥 **Alev tespit sistemi** (gerçek zamanlı webcam analizi)
 
 ---
 
@@ -63,6 +61,7 @@
   <a href="mailto:besir@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  💠 İletişim Adresleri Askıya Alınmıştır ! 💠</p>
 </p>
 
 ---
