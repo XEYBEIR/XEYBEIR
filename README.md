@@ -7,10 +7,12 @@
 </div>
 
 <h1 align="center" style="font-size: 2.7em; color:#E63946; margin-top: 18px;">
-  👋 Merhaba, ben <span style="color:#1D3557;">Beşir
+  👋 Merhaba, ben <span style="color:#1D3557;">Beşir</span>!
+
 
 <p align="center" style="font-size:1.1em; color:#555;">
   Deneyap Öğrencisiyim. Teknolojiyle sınırları zorlamayı seviyorum.
+</p>
 
 ---
 
@@ -22,18 +24,31 @@
 
 ---
 
+<div align="center">
+<table style="border: none;">
+<tr>
+<td align="left" width="50%">
+
 ### 💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/C++-1E90FF?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
 
----
+</td>
+<td align="right" width="50%">
 
 ### ⚙️ Tools & Technologies
-<p align="left">
+<p align="right">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -78,4 +93,8 @@
   <p style="color: #00ffff; font-size: 1.1em; margin-top: 10px;">
     <strong>Veri akışı, kodun nabzı, Beşir’in ritmi 🧠⚙️</strong>
   </p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=130&section=footer&animation=twinkling"/>
 </div>
