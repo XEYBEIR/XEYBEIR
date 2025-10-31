@@ -3,14 +3,14 @@
   <img src="https://github.com/XEYBEIR/XEYBEIR/blob/main/pa%C5%9Fam.png" 
        alt="Banner" 
        width="100%" 
-       style="border-radius: 16px; box-shadow: 0 4px 30px rgba(255,0,0,0.25);"/>
+       style="border-radius: 16px; box-shadow: 0 0 40px rgba(230,57,70,0.45);"/>
 </div>
 
-<h1 align="center" style="font-size: 2.7em; color:#e63946; margin-top: 16px;">
-  👋 Merhaba, ben <span style="color:#1d3557;">Beşir</span>!
+<h1 align="center" style="font-size: 2.7em; color:#E63946; margin-top: 18px;">
+  👋 Merhaba, ben <span style="color:#1D3557;">Beşir</span>!
 </h1>
 
-<p align="center" style="font-size:1.15em; color:#555;">
+<p align="center" style="font-size:1.1em; color:#555;">
   Deneyap Öğrencisiyim. Teknolojiyle sınırları zorlamayı seviyorum.
 </p>
 
@@ -24,23 +24,36 @@
 
 ---
 
-## 💻 Programming Languages
-<p align="center">
+<div align="center">
+<table style="border: none;">
+<tr>
+<td align="left" width="50%">
+
+### 💻 Programming Languages
+<p align="left">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/C++-1E90FF?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
-## ⚙️ Tools & Technologies
-<p align="center">
+</td>
+<td align="right" width="50%">
+
+### ⚙️ Tools & Technologies
+<p align="right">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
+</td>
+</tr>
+</table>
+</div>
+
 ---
 
 ## 🏆 Ödüller & Projeler
-> <span style="color:#1d3557;">Yenilik, üretkenlik ve mühendislik tutkusuyla…</span>
+> <span style="color:#1D3557;">Yenilik, üretkenlik ve mühendislik tutkusuyla…</span>
 
 - 🥇 **Teknofest 2025 Kıbrıs - Roboling Mavi Vatan** yarışmacısı başvurusu  
 - ⚙️ Görüntü işleme tabanlı güvenlik, mini robot kontrol ve web tabanlı sohbet sistemleri  
@@ -49,10 +62,10 @@
 
 ---
 
-## 📊 GitHub İstatistikleri
+## ⚡ GitHub İstatistikleri
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XEYBEIR&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4C4C&icon_color=E63946" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XEYBEIR&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4C4C" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=XEYBEIR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4C4C&icon_color=E63946" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XEYBEIR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4C4C" width="48%"/>
 </div>
 
 ---
@@ -72,12 +85,16 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XEYBEIR&color=E63946&style=for-the-badge&label=PROFILE+VIEWS"/>
-</p>
-
----
+<!-- 💾 TEKNOLOJİK ALT BÖLÜM -->
+<div align="center" style="background: linear-gradient(90deg, #0D1117 0%, #1A1F25 100%); padding: 30px; border-radius: 12px;">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+       alt="snake animation"
+       style="width:100%; max-width: 1000px; filter: drop-shadow(0 0 12px #00ffff);"/>
+  <p style="color: #00ffff; font-size: 1.1em; margin-top: 10px;">
+    <strong>Veri akışı, kodun nabzı, Beşir’in ritmi 🧠⚙️</strong>
+  </p>
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E63946&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=130&section=footer&animation=twinkling"/>
 </div>
