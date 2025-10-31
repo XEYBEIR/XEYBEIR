@@ -1,7 +1,8 @@
-<!-- 🌌 PROFİL BAŞLIĞI -->
-<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 50px 20px; border-radius: 15px;">
-  <img src="https://github.com/XEYBEIR/XEYBEIR/blob/main/pa%C5%9Fam.png" alt="Banner" width="90%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(255,255,255,0.2);"/>
-  <h1 style="color:#00e0ff; font-size: 36px; margin-top: 20px;">👋 Merhaba, ben <span style="color:#ffffff;">Beşir!</span></h1>
+<!-- 🌐 MODERN PROFİL SAYFASI -->
+<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 40px 20px; border-radius: 15px;">
+  <img src="https://github.com/XEYBEIR/XEYBEIR/blob/main/pa%C5%9Fam.png" alt="Banner" width="90%" style="border-radius: 12px; box-shadow: 0 0 25px rgba(0,255,255,0.3);"/>
+  
+  <h1 style="color:#00e0ff; font-size: 38px; margin-top: 25px;">👋 Merhaba, ben <span style="color:#ffffff;">Beşir!</span></h1>
   <p style="color:#d0d0d0; font-size:18px;">Deneyap Öğrencisiyim. Teknolojiyle sınırları zorlamayı seviyorum.</p>
 </div>
 
@@ -22,13 +23,18 @@
 <td width="50%" valign="top">
 
 #### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
 #### ⚙️ Tools & Technologies  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pip-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
+</p>
 
 </td>
 </tr>
@@ -39,7 +45,7 @@
 
 ## 🏆 Ödüller & Projeler
 <div align="center">
-  <ul style="text-align: left; display: inline-block;">
+  <ul style="text-align: left; display: inline-block; line-height: 1.6;">
     <li>🥇 <b>Teknofest 2025 Kıbrıs - Roboling Mavi Vatan</b> yarışmacısı başvurusu</li>
     <li>⚙️ Görüntü işleme tabanlı güvenlik, mini robot kontrol, web tabanlı sohbet sistemleri</li>
     <li>🎮 Python ile 3D FPS Oyun projesi (Sinop temalı)</li>
@@ -58,8 +64,13 @@
 
 ---
 
-<!-- 🔥 TEKNOLOJİK HAREKETLİ ALT BAR -->
-<div align="center">
+<!-- ⚡ HAREKETLİ TEKNOLOJİK ALT BAR -->
+<div align="center" style="margin-top:30px;">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
-  <p style="color:#00ffe0; font-size:14px; margin-top:-10px;">Sistem sürekli gelişiyor...</p>
+  <p style="color:#00ffe0; font-size:15px; margin-top:-10px;">💠 Sistem sürekli gelişiyor... 💠</p>
 </div>
+
+<!-- 💫 TEKNOLOJİK IŞIK ÇİZGİSİ -->
+<p align="center">
+  <img src="https://i.imgur.com/zYIlgBl.gif" width="80%" alt="Tech line animation" style="margin-top:20px;"/>
+</p>
