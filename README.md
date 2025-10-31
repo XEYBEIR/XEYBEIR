@@ -1,49 +1,34 @@
-<!-- 🧭 PROFİL BANNER -->
-<div align="center">
-  <img src="https://github.com/XEYBEIR/XEYBEIR/blob/main/pa%C5%9Fam.png" 
-       alt="Banner" 
-       width="100%" 
-       style="border-radius: 16px; box-shadow: 0 0 40px rgba(230,57,70,0.45);"/>
+<!-- 🌌 PROFİL BAŞLIĞI -->
+<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 50px 20px; border-radius: 15px;">
+  <img src="https://github.com/XEYBEIR/XEYBEIR/blob/main/pa%C5%9Fam.png" alt="Banner" width="90%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(255,255,255,0.2);"/>
+  <h1 style="color:#00e0ff; font-size: 36px; margin-top: 20px;">👋 Merhaba, ben <span style="color:#ffffff;">Beşir!</span></h1>
+  <p style="color:#d0d0d0; font-size:18px;">Deneyap Öğrencisiyim. Teknolojiyle sınırları zorlamayı seviyorum.</p>
 </div>
-
-<h1 align="center" style="font-size: 2.7em; color:#E63946; margin-top: 18px;">
-  👋 Merhaba, ben <span style="color:#1D3557;">Beşir</span>!
-
-
-<p align="center" style="font-size:1.1em; color:#555;">
-  Deneyap Öğrencisiyim. Teknolojiyle sınırları zorlamayı seviyorum.
-</p>
 
 ---
 
 ## 💡 About Me
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
 - 👨‍💻 Sürekli yeni teknolojiler öğrenip kendi projelerimi geliştiriyorum.  
-- 🧠 İlgi alanlarım: **Yapay Zeka**, **Oyun Geliştirme** ve **Gömülü Sistemler**  
+- 🧠 İlgi alanlarım: Yapay Zeka, Oyun Geliştirme ve Gömülü Sistemler  
 - 🚀 Şu anda **Python**, **C++** ve **Embedded Systems** üzerinde yoğunlaşıyorum.  
 - 🎯 Hedefim: Gerçek dünya problemlerini teknolojiyle çözmek.  
 
----
-
-<div align="center">
-<table style="border: none;">
-<tr>
-<td align="left" width="50%">
-
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/C++-1E90FF?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</p>
-
 </td>
-<td align="right" width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ Tools & Technologies
-<p align="right">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
+#### 💻 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### ⚙️ Tools & Technologies  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 </td>
 </tr>
@@ -53,48 +38,28 @@
 ---
 
 ## 🏆 Ödüller & Projeler
-> <span style="color:#1D3557;">Yenilik, üretkenlik ve mühendislik tutkusuyla…</span>
-
-- 🥇 **Teknofest 2025 Kıbrıs - Roboling Mavi Vatan** yarışmacısı başvurusu  
-- ⚙️ Görüntü işleme tabanlı güvenlik, mini robot kontrol ve web tabanlı sohbet sistemleri  
-- 🎮 **Python ile 3D FPS Oyun projesi** (Sinop temalı)  
-- 🔥 **Alev tespit sistemi** (gerçek zamanlı webcam analizi)  
-
----
-
-## ⚡ GitHub İstatistikleri
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XEYBEIR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4C4C&icon_color=E63946" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XEYBEIR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4C4C" width="48%"/>
+  <ul style="text-align: left; display: inline-block;">
+    <li>🥇 <b>Teknofest 2025 Kıbrıs - Roboling Mavi Vatan</b> yarışmacısı başvurusu</li>
+    <li>⚙️ Görüntü işleme tabanlı güvenlik, mini robot kontrol, web tabanlı sohbet sistemleri</li>
+    <li>🎮 Python ile 3D FPS Oyun projesi (Sinop temalı)</li>
+    <li>🔥 Gerçek zamanlı alev tespit sistemi (webcam analizi)</li>
+  </ul>
 </div>
 
 ---
 
 ## 📞 İletişim
 <p align="center">
-  <a href="mailto:besir@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="mailto:besir@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<!-- 💾 TEKNOLOJİK ALT BÖLÜM -->
-<div align="center" style="background: linear-gradient(90deg, #0D1117 0%, #1A1F25 100%); padding: 30px; border-radius: 12px;">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-       alt="snake animation"
-       style="width:100%; max-width: 1000px; filter: drop-shadow(0 0 12px #00ffff);"/>
-  <p style="color: #00ffff; font-size: 1.1em; margin-top: 10px;">
-    <strong>Veri akışı, kodun nabzı, Beşir’in ritmi 🧠⚙️</strong>
-  </p>
-</div>
-
+<!-- 🔥 TEKNOLOJİK HAREKETLİ ALT BAR -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=130&section=footer&animation=twinkling"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+  <p style="color:#00ffe0; font-size:14px; margin-top:-10px;">Sistem sürekli gelişiyor...</p>
 </div>
