@@ -12,7 +12,6 @@
 
 <p align="center" style="font-size:1.1em; color:#555;">
   Deneyap Öğrencisiyim. Teknolojiyle sınırları zorlamayı seviyorum.
-</p>
 
 ---
 
