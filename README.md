@@ -15,17 +15,18 @@
 
 ---
 
-## 🧰 Kullandığım Teknolojiler ve Diller
+#### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,arduino,linux,git,opencv,vscode,anaconda" />
-</p>
+#### ⚙️ Tools & Technologies
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ---
 
 ## 🏆 Ödüller & Projeler
 
-- 🥇 **Teknofest 2025 Kıbrıs - Roboling Mavi Vatan** yarışmacısı  
+- 🥇 **Teknofest 2025 Kıbrıs - Roboling Mavi Vatan** yarışmacısı başvurusu
 - ⚙️ Geliştirdiğim sistemler: Görüntü işleme tabanlı güvenlik, mini robot kontrol, web tabanlı sohbet sistemleri  
 - 🎮 Python ile 3D FPS Oyun projesi (Sinop temalı)  
 - 🔥 Alev tespit sistemi (gerçek zamanlı webcam analizi)  
