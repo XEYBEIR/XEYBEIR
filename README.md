@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center" style="font-size: 2.7em; color:#E63946; margin-top: 18px;">
-  👋 Merhaba, ben <span style="color:#1D3557;">Beşir</span>!
+  👋 Merhaba, ben <span style="color:#1D3557;">Beşir
 </h1>
 
 <p align="center" style="font-size:1.1em; color:#555;">
