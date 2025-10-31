@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/XEYBEIR/XEYBEIR/blob/main/pa%C5%9Fam.png" alt="Banner" width="100%"/>
   <h1>👋 Merhaba, ben Beşir!</h1>
-  <p>Yazılım mühendisliği öğrencisiyim. Teknolojiyle sınırları zorlamayı seviyorum.</p>
+  <p>Deneyap Öğrencisiyim . Teknolojiyle sınırları zorlamayı seviyorum.</p>
 </div>
 
 ---
