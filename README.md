@@ -32,7 +32,7 @@
 ---
 
 ### ⚙️ Tools & Technologies
-<p align="right">
+<p align="left">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white"/>
@@ -80,8 +80,4 @@
   <p style="color: #00ffff; font-size: 1.1em; margin-top: 10px;">
     <strong>Veri akışı, kodun nabzı, Beşir’in ritmi 🧠⚙️</strong>
   </p>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=130&section=footer&animation=twinkling"/>
 </div>
