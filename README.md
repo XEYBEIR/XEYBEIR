@@ -43,19 +43,12 @@
 
 ---
 
-## 🏅 GitHub Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
 
 ## ✨ Sevdiğim Bir Cümle
-> "Gerçek zekâ, sınırları kırmakla başlar."
+> "Kabak Çekirdeğinin Açılarını Çekiyorum."
 
 ---
 
 <div align="center">
-  <sub>💻 by İstikbal göklerdedir , Ne Mutlu Türküm Diyene.</sub>
+  <sub>💻 by 2025/Kasım.</sub>
 </div>
