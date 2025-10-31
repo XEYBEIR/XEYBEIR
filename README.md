@@ -1,7 +1,10 @@
-<!-- 🌐 MODERN PROFİL SAYFASI -->
-<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 40px 20px; border-radius: 15px;">
-  <img src="https://github.com/XEYBEIR/XEYBEIR/blob/main/pa%C5%9Fam.png" alt="Banner" width="90%" style="border-radius: 12px; box-shadow: 0 0 25px rgba(0,255,255,0.3);"/>
-  
+<!-- ⚡ HAREKETLİ TEKNOLOJİK ALT BAR -->
+<div align="center" style="margin-top:30px;">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+  <p style="color:#00ffe0; font-size:15px; margin-top:-10px;">💠 Sistem sürekli gelişiyor... 💠</p>
+</div>
+
+<!-- 🌐 MODERN PROFİL SAYFASI -->  
   <h1 style="color:#00e0ff; font-size: 38px; margin-top: 25px;">👋 Merhaba, ben <span style="color:#ffffff;">Beşir!</span></h1>
   <p style="color:#d0d0d0; font-size:18px;">Deneyap Öğrencisiyim. Teknolojiyle sınırları zorlamayı seviyorum.</p>
 </div>
@@ -64,13 +67,5 @@
 
 ---
 
-<!-- ⚡ HAREKETLİ TEKNOLOJİK ALT BAR -->
-<div align="center" style="margin-top:30px;">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
-  <p style="color:#00ffe0; font-size:15px; margin-top:-10px;">💠 Sistem sürekli gelişiyor... 💠</p>
-</div>
 
-<!-- 💫 TEKNOLOJİK IŞIK ÇİZGİSİ -->
-<p align="center">
-  <img src="https://i.imgur.com/zYIlgBl.gif" width="80%" alt="Tech line animation" style="margin-top:20px;"/>
-</p>
+
