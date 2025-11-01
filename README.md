@@ -53,6 +53,7 @@
 - ⚙️ Görüntü işleme tabanlı güvenlik, mini robot kontrol ve web tabanlı sohbet sistemleri  
 - 🎮 **Python ile 3D FPS Oyun projesi** (Sinop temalı)  
 - 🔥 **Alev tespit sistemi** (gerçek zamanlı webcam analizi)
+- 💻 **AnadoluX** Sınırlarınızı zorlayan , yenilikçi ve çağ dışı bir işletim sistemi simulasyon projesi
 
 ---
 
