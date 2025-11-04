@@ -1,76 +1,64 @@
-<!-- ⚡ HAREKETLİ TEKNOLOJİK ALT BAR -->
-<div align="center" style="margin-top:30px;">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
-  <p style="color:#00ffe0; font-size:15px; margin-top:-10px;">💠 Sistem sürekli gelişiyor... 💠</p>
-</div>
-
-<!-- 🌐 MODERN PROFİL SAYFASI -->  
-  <h1 style="color:#00e0ff; font-size: 38px; margin-top: 25px;">👋 Merhaba, ben <span style="color:#ffffff;">Beşir!</span></h1>
-  <p style="color:#d0d0d0; font-size:18px;">Deneyap Öğrencisiyim. Teknolojiyle sınırları zorlamayı seviyorum.</p>
-</div>
-
----
-
-## 💡 About Me
+<!-- 🐍 ANİMASYONLU SNAKE GRAFİĞİ -->
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-- 👨‍💻 Sürekli yeni teknolojiler öğrenip kendi projelerimi geliştiriyorum.  
-- 🧠 İlgi alanlarım: Yapay Zeka, Oyun Geliştirme ve Gömülü Sistemler  
-- 🚀 Şu anda **Python**, **C++** ve **Embedded Systems** üzerinde yoğunlaşıyorum.  
-- 🎯 Hedefim: Gerçek dünya problemlerini teknolojiyle çözmek.  
-
-</td>
-<td width="50%" valign="top">
-
-#### 💻 Programming Languages  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-
-#### ⚙️ Tools & Technologies  
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pip-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-</table>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="coding activity"/>
 </div>
 
----
+<br>
 
-## 🏆 Ödüller & Projeler
-> <span style="color:#1d3557;">Yenilik, üretkenlik ve mühendislik tutkusuyla…</span>
+<!-- 👤 PROFİL BAŞLIĞI -->
+<div align="center">
+  <h1 style="color:#00d4ff; font-size: 2.5rem; margin-bottom: 10px;">👋 Merhaba, Ben Beşir</h1>
+  <p style="color:#a0a0a0; font-size: 1.1rem; max-width: 600px; margin: 0 auto;">
+    Deneyap Teknoloji Atölyesi öğrencisi • Yapay Zeka & Gömülü Sistemler meraklısı
+  </p>
+</div>
 
-- 🥇 **Teknofest 2025 Kıbrıs - Roboling Mavi Vatan** yarışmacısı başvurusu   
-- 🎮 **Python ile 3D FPS Oyun projesi** (Sinop temalı)  
-- 🔥 **Alev tespit sistemi** (gerçek zamanlı webcam analizi)
-- 💻 **AnadoluX** Sınırlarınızı Zorlayan , Yenilikçi Ve Çağ Dışı Bir İşletim Sistemi Simulasyon Projesi
-- 🔑 **Kurumsal Yönetim - Bilğilendirme Sistemi (KEDİS)** (Yapay Zeka Destekli Kodlama Projesi)
-- 🎮 **Stratejik Deprem Yönetim Oyunu** (Şehri Yönet , Hükümet İle Anlaş)
+<br>
 
----
+<!-- 🛠️ TEKNOLOJİ STACK -->
+<div align="center">
+  <h3>🛠️ Teknoloji Stack'im</h3>
+  
+  **Programlama Dilleri**
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
+  
+  <br><br>
+  
+  **Araçlar & Teknolojiler**
+  <br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" alt="Anaconda"/>
+</div>
 
-## 📞 İletişim
-<p align="center">
-  <a href="mailto:besir@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <p align="center" style="color:#00ffe0; font-size:15px; margin-top:-10px;">
-💠 İletişim Adresleri Askıya Alınmıştır ! 💠
-</p>
+<br>
 
+<!-- 📌 HAKKIMDA -->
+<div align="center">
+  <h3>💡 Hakkımda</h3>
+  <p style="color:#d0d0d0; max-width: 700px; margin: 0 auto; line-height: 1.6;">
+    • Sürekli yeni teknolojiler öğrenip projeler geliştiriyorum<br>
+    • Yapay Zeka, Oyun Geliştirme ve Gömülü Sistemler ilgi alanlarım<br>
+    • Python, C++ ve Embedded Systems üzerine odaklanıyorum<br>
+    • Gerçek dünya problemlerini teknolojiyle çözmek ana hedefim
+  </p>
+</div>
 
-</p>
+<br>
 
----
-
-
-
+<!-- 🏆 PROJELER -->
+<div align="center">
+  <h3>🚀 Öne Çıkan Projeler</h3>
+  
+  ```python
+  # Aktif Projelerim
+  projects = [
+      "🔥 Teknofest 2025 - Roboling Mavi Vatan",
+      "🎮 Python 3D FPS Oyun (Sinop Temalı)",
+      "👁️ Gerçek Zamanlı Alev Tespit Sistemi", 
+      "💻 AnadoluX İşletim Sistemi Simülasyonu",
+      "🤖 KEDİS - Yapay Zeka Destekli Kodlama",
+      "🏗️ Stratejik Deprem Yönetim Oyunu"
+  ]
