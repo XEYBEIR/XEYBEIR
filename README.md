@@ -49,11 +49,12 @@
 ## 🏆 Ödüller & Projeler
 > <span style="color:#1d3557;">Yenilik, üretkenlik ve mühendislik tutkusuyla…</span>
 
-- 🥇 **Teknofest 2025 Kıbrıs - Roboling Mavi Vatan** yarışmacısı başvurusu  
-- ⚙️ Görüntü işleme tabanlı güvenlik, mini robot kontrol ve web tabanlı sohbet sistemleri  
+- 🥇 **Teknofest 2025 Kıbrıs - Roboling Mavi Vatan** yarışmacısı başvurusu   
 - 🎮 **Python ile 3D FPS Oyun projesi** (Sinop temalı)  
 - 🔥 **Alev tespit sistemi** (gerçek zamanlı webcam analizi)
-- 💻 **AnadoluX** Sınırlarınızı zorlayan , yenilikçi ve çağ dışı bir işletim sistemi simulasyon projesi
+- 💻 **AnadoluX** Sınırlarınızı Zorlayan , Yenilikçi Ve Çağ Dışı Bir İşletim Sistemi Simulasyon Projesi
+- 🔑 **Kurumsal Yönetim - Bilğilendirme Sistemi (KEDİS)** (Yapay Zeka Destekli Kodlama Projesi)
+- 🎮 **Stratejik Deprem Yönetim Oyunu"" (Şehri Yönet , Hükümet İle Anlaş)
 
 ---
 
