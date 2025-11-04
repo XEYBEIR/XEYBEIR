@@ -1,4 +1,4 @@
-  
+<!-- 🌐 MODERN PROFİL SAYFASI -->  
   <h1 style="color:#00e0ff; font-size: 38px; margin-top: 25px;">👋 Merhaba, ben <span style="color:#ffffff;">Beşir!</span></h1>
   <p style="color:#d0d0d0; font-size:18px;">Deneyap Öğrencisiyim. Teknolojiyle sınırları zorlamayı seviyorum.</p>
 </div>
@@ -41,14 +41,14 @@
 ---
 
 ## 🏆 Ödüller & Projeler
-<div align="center">
-  <ul style="text-align: left; display: inline-block; line-height: 1.6;">
-    <li>🥇 <b>Teknofest 2025 Kıbrıs - Roboling Mavi Vatan</b> yarışmacısı başvurusu</li>
-    <li>⚙️ Görüntü işleme tabanlı güvenlik, mini robot kontrol, web tabanlı sohbet sistemleri</li>
-    <li>🎮 Python ile 3D FPS Oyun projesi (Sinop temalı)</li>
-    <li>🔥 Gerçek zamanlı alev tespit sistemi (webcam analizi)</li>
-  </ul>
-</div>
+> <span style="color:#1d3557;">Yenilik, üretkenlik ve mühendislik tutkusuyla…</span>
+
+- 🥇 **Teknofest 2025 Kıbrıs - Roboling Mavi Vatan** yarışmacısı başvurusu   
+- 🎮 **Python ile 3D FPS Oyun projesi** (Sinop temalı)  
+- 🔥 **Alev tespit sistemi** (gerçek zamanlı webcam analizi)
+- 💻 **AnadoluX** Sınırlarınızı Zorlayan , Yenilikçi Ve Çağ Dışı Bir İşletim Sistemi Simulasyon Projesi
+- 🔑 **Kurumsal Yönetim - Bilğilendirme Sistemi (KEDİS)** (Yapay Zeka Destekli Kodlama Projesi)
+- 🎮 **Stratejik Deprem Yönetim Oyunu** (Şehri Yönet , Hükümet İle Anlaş)
 
 ---
 
@@ -57,17 +57,11 @@
   <a href="mailto:besir@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <p align="center" style="color:#00ffe0; font-size:15px; margin-top:-10px;">
+💠 İletişim Adresleri Askıya Alınmıştır ! 💠
+</p>
+
+
 </p>
 
 ---
-
-<!-- ⚡ HAREKETLİ TEKNOLOJİK ALT BAR -->
-<div align="center" style="margin-top:30px;">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
-  <p style="color:#00ffe0; font-size:15px; margin-top:-10px;">💠 Sistem sürekli gelişiyor... 💠</p>
-</div>
-
-<!-- 💫 TEKNOLOJİK IŞIK ÇİZGİSİ -->
-<p align="center">
-  <img src="https://i.imgur.com/zYIlgBl.gif" width="80%" alt="Tech line animation" style="margin-top:20px;"/>
-</p>
