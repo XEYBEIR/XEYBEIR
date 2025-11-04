@@ -54,7 +54,7 @@
 - 🔥 **Alev tespit sistemi** (gerçek zamanlı webcam analizi)
 - 💻 **AnadoluX** Sınırlarınızı Zorlayan , Yenilikçi Ve Çağ Dışı Bir İşletim Sistemi Simulasyon Projesi
 - 🔑 **Kurumsal Yönetim - Bilğilendirme Sistemi (KEDİS)** (Yapay Zeka Destekli Kodlama Projesi)
-- 🎮 **Stratejik Deprem Yönetim Oyunu"" (Şehri Yönet , Hükümet İle Anlaş)
+- 🎮 **Stratejik Deprem Yönetim Oyunu** (Şehri Yönet , Hükümet İle Anlaş)
 
 ---
 
