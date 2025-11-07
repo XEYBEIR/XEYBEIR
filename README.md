@@ -13,8 +13,9 @@
 
 - 👨‍💻 Sürekli yeni teknolojiler öğrenip kendi projelerimi geliştiriyorum.  
 - 🧠 İlgi alanlarım: Yapay Zeka, Oyun Geliştirme ve Gömülü Sistemler  
-- 🚀 Şu anda **Python**, **C++** ve **Embedded Systems** üzerinde yoğunlaşıyorum.  
-- 🎯 Hedefim: Gerçek dünya problemlerini teknolojiyle çözmek.  
+- 🚀 Şu anda **Python**, **C++** ve **Embedded Systems** üzerinde yoğunlaşıyorum.
+- 🔍 **html** Yazmaya Çalışıyorum.
+- 🎯 Hedefim: Gerçek dünya problemlerini teknolojiyle çözmek. 
 
 </td>
 <td width="50%" valign="top">
@@ -48,7 +49,7 @@
 - 🔥 **Alev tespit sistemi** (gerçek zamanlı webcam analizi)
 - 💻 **AnadoluX** Sınırlarınızı Zorlayan , Yenilikçi Ve Çağ Dışı Bir İşletim Sistemi Simulasyon Projesi
 - 🔑 **Kurumsal Yönetim - Bilğilendirme Sistemi (KEDİS)** (Yapay Zeka Destekli Kodlama Projesi)
-- 🎮 **Stratejik Deprem Yönetim Oyunu ** (Şehri Yönet , Hükümet İle Anlaş)
+- 🎮 **Stratejik Deprem Yönetim Oyunu** (Şehri Yönet , Hükümet İle Anlaş)
 
 ---
 
