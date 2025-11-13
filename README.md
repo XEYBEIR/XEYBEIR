@@ -15,7 +15,7 @@
 - 🧠 İlgi alanlarım: Yapay Zeka, Oyun Geliştirme ve Gömülü Sistemler  
 - 🚀 Şu anda **Python**, **C++** ve **Embedded Systems** üzerinde yoğunlaşıyorum.
 - 🔍 **html** Yazmaya Çalışıyorum.
-- 🎯 Hedefim: Gerçek dünya problemlerini teknolojiyle çözmek. 
+- 🎯 Hedefim: Gerçek dünya problemlerini teknolojiyle çözmek.
 
 </td>
 <td width="50%" valign="top">
