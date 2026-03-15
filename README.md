@@ -50,7 +50,7 @@
 - 💻 **AnadoluX** Sınırlarınızı Zorlayan , Yenilikçi Ve Çağ Dışı Bir İşletim Sistemi Simulasyon Projesi
 - 🔑 **Kurumsal Yönetim - Bilğilendirme Sistemi (KEDİS)** (Yapay Zeka Destekli Kodlama Projesi)
 - 🎮 **Stratejik Deprem Yönetim Oyunu** (Şehri Yönet , Hükümet İle Anlaş)
-- 📅 **Kodnot** Moderm ve ücretsiz yeni nesil zamana ayak uyduran ve ücretli rakiplerine göre çok daha iyi olan not tutma programı
+- 📅 **Kodnot:** Rakiplerinden daha güçlü, zamandan daha hızlı. Yeni nesil ücretsiz not tutma platformu.
 
 ---
 
