@@ -51,26 +51,22 @@
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📞 İletişim
 
 <div align="center">
+<br>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:besir@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME)
+| Platform | Durum |
+|:--------:|:-----:|
+| [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:besir@example.com) | ⏸️ Askıda |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME) | ⏸️ Askıda |
+| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME) | ✅ Aktif |
 
-> 💠 İletişim adresleri askıya alınmıştır.
+<br>
+
+> 💠 **İletişim adresleri geçici olarak askıya alınmıştır.**
+
+<br>
 
 </div>
 
