@@ -1,69 +1,83 @@
-<!-- 🌐 MODERN PROFİL SAYFASI -->  
-  <h1 style="color:#00e0ff; font-size: 38px; margin-top: 25px;">👋 Merhaba, ben <span style="color:#ffffff;">Beşir!</span></h1>
-  <p style="color:#d0d0d0; font-size:18px;">Deneyap Öğrencisiyim. Teknolojiyle sınırları zorlamayı seviyorum.</p>
-</div>
-
----
-
-## 💡 About Me
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
 
-- 👨‍💻 Sürekli yeni teknolojiler öğrenip kendi projelerimi geliştiriyorum.  
-- 🧠 İlgi alanlarım: Yapay Zeka, Oyun Geliştirme ve Gömülü Sistemler  
-- 🚀 Şu anda **Python**, **C++** ve **Embedded Systems** üzerinde yoğunlaşıyorum.
-- 🔍 **html** Yazmaya Çalışıyorum.
-- 🎯 Hedefim: Gerçek dünya problemlerini teknolojiyle çözmek.
+# 👋 Merhaba, ben Beşir!
 
-</td>
-<td width="50%" valign="top">
+**Deneyap Öğrencisi · Yazılım Geliştirici · Teknoloji Meraklısı**
 
-#### 💻 Programming Languages  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
+*Teknolojiyle sınırları zorlamayı seviyorum.*
 
-#### ⚙️ Tools & Technologies  
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pip-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
 
-## 🏆 Ödüller & Projeler
-> <span style="color:#1d3557;">Yenilik, üretkenlik ve mühendislik tutkusuyla…</span>
+## 💡 Hakkımda
 
-- 🥇 **Teknofest 2025 Kıbrıs - Roboling Mavi Vatan** yarışmacısı başvurusu   
-- 🎮 **Python ile 3D FPS Oyun projesi** (Sinop temalı)  
-- 🔥 **Alev tespit sistemi** (gerçek zamanlı webcam analizi)
-- 💻 **AnadoluX** Sınırlarınızı Zorlayan , Yenilikçi Ve Çağ Dışı Bir İşletim Sistemi Simulasyon Projesi
-- 🔑 **Kurumsal Yönetim - Bilğilendirme Sistemi (KEDİS)** (Yapay Zeka Destekli Kodlama Projesi)
-- 🎮 **Stratejik Deprem Yönetim Oyunu** (Şehri Yönet , Hükümet İle Anlaş)
-- 📅 **Kodnot:** Rakiplerinden daha güçlü, zamandan daha hızlı. Yeni nesil ücretsiz not tutma platformu.
+- 👨‍💻 Sürekli yeni teknolojiler öğrenip kendi projelerimi geliştiriyorum
+- 🧠 İlgi alanlarım: **Yapay Zeka**, **Oyun Geliştirme** ve **Gömülü Sistemler**
+- 🚀 Şu anda **Python**, **C++** ve **Embedded Systems** üzerinde yoğunlaşıyorum
+- 🎯 Hedefim: Gerçek dünya problemlerini teknolojiyle çözmek
+
+---
+
+## 🛠️ Teknolojiler & Araçlar
+
+**Programlama Dilleri**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Araçlar & Platformlar**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![pip](https://img.shields.io/badge/pip-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
+
+---
+
+## 🏆 Yarışmalar & Projeler
+
+| Proje | Açıklama |
+|-------|----------|
+| 🥇 **Teknofest 2025 Kıbrıs** | Roboling Mavi Vatan yarışması katılımcısı |
+| 🎮 **3D FPS Oyun** | Python ile geliştirilmiş Sinop temalı oyun projesi |
+| 🔥 **Alev Tespit Sistemi** | Gerçek zamanlı webcam tabanlı yangın analizi |
+| 💻 **AnadoluX** | Yenilikçi masaüstü işletim sistemi simülasyonu |
+| 🤖 **KEDİS** | Yapay Zeka destekli kurumsal yönetim & bilgilendirme sistemi |
+| 🌍 **Deprem Yönetim Oyunu** | Şehri yönet, hükümetle anlaş — stratejik simülasyon |
+| 📝 **KodNot** | Ücretsiz, güçlü, yeni nesil not tutma platformu |
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ## 📞 İletişim
-<p align="center">
-  <a href="mailto:besir@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <p align="center" style="color:#00ffe0; font-size:15px; margin-top:-10px;">
-💠 İletişim Adresleri Askıya Alınmıştır ! 💠
-</p>
 
+<div align="center">
 
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:besir@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME)
+
+> 💠 İletişim adresleri askıya alınmıştır.
+
+</div>
 
 ---
+
+<div align="center">
+
+*"Kod yaz, sınır tanıma."*
+
+</div>
