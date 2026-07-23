@@ -39,10 +39,7 @@
 | 🥇 Teknofest 2025 Kıbrıs | Roboling Mavi Vatan yarışması katılımcısı |
 | 🎮 3D FPS Oyun | Python ile geliştirilmiş Sinop temalı oyun projesi |
 | 🔥 Alev Tespit Sistemi | Gerçek zamanlı webcam tabanlı yangın analizi |
-| 💻 AnadoluX | Yenilikçi masaüstü işletim sistemi simülasyonu |
 | 🤖 KEDİS | Yapay zeka destekli kurumsal yönetim & bilgilendirme sistemi |
-| 🌍 Deprem Yönetim Oyunu | Şehri yönet, hükümetle anlaş — stratejik simülasyon |
-| 📝 KodNot | Ücretsiz, güçlü, yeni nesil not tutma platformu |
 
   <h2>🎯 İlgi Alanları</h2>
 
