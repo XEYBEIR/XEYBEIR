@@ -23,7 +23,6 @@
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6C00?style=for-the-badge&logo=autodesk&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -36,7 +35,6 @@
 
 | Proje | Açıklama |
 |------|------|
-| 🥇 Teknofest 2025 Kıbrıs | Roboling Mavi Vatan yarışması katılımcısı |
 | 🎮 3D FPS Oyun | Python ile geliştirilmiş Sinop temalı oyun projesi |
 | 🔥 Alev Tespit Sistemi | Gerçek zamanlı webcam tabanlı yangın analizi |
 | 🤖 KEDİS | Yapay zeka destekli kurumsal yönetim & bilgilendirme sistemi |
